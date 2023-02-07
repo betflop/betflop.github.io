@@ -1,23 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Category - My DevOps Blog</title>
+        <title>Markdown - Категория - My DevOps Blog</title>
         <link>/categories/markdown/</link>
-        <description>Markdown - Category - My DevOps Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Basic Markdown Syntax</title>
+        <description>Markdown - Категория - My DevOps Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</lastBuildDate><atom:link href="/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Это первый тестовый пост на сайте!</title>
+    <link>/posts/my_post/</link>
+    <pubDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</pubDate>
+    <author>Pavel Kozlov</author>
+    <guid>/posts/my_post/</guid>
+    <description><![CDATA[First my new ! New local string  В то время как Linux еще пытается занять свое место в настольных системах, она абсолютно доминирует в мире серверов, особенно виртуальных и облачных. Поскольку самое серьезное администрирование серверов в наши дни выполняется удаленно, работа с графическим интерфейсом того или иного рода просто приводит к лишнему потреблению ресурсов. Если вы хотите управлять серверами и сетевыми архитектурами, которые в настоящее время привлекают всеоб­щее внимание, вам придется пользоваться оболочкой командной строки Linux.]]></description>
+</item>
+<item>
+    <title>Markdown 基本语法</title>
     <link>/posts/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
 </item>
 <item>
-    <title>Emoji Support</title>
+    <title>Emoji 支持</title>
     <link>/posts/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>/posts/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
 </item>
 </channel>
 </rss>
