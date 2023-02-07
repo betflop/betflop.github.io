@@ -3,16 +3,7 @@
         <title>Markdown - Category - My DevOps Blog</title>
         <link>/categories/markdown/</link>
         <description>Markdown - Category - My DevOps Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</lastBuildDate><atom:link href="/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>My_post new123</title>
-    <link>/posts/my_post/</link>
-    <pubDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</pubDate>
-    <author>Pavel Kozlov</author>
-    <guid>/posts/my_post/</guid>
-    <description><![CDATA[When all people give up
-First  В то время как Linux еще пытается занять свое место в настольных системах, она абсолютно доминирует в мире серверов, особенно виртуальных и облачных. Поскольку самое серьезное администрирование серверов в наши дни выполняется удаленно, работа с графическим интерфейсом того или иного рода просто приводит к лишнему потреблению ресурсов. Если вы хотите управлять серверами и сетевыми архитектурами, которые в настоящее время привлекают всеоб­щее внимание, вам придется пользоваться оболочкой командной строки Linux.]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
     <link>/posts/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
