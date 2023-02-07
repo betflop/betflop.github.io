@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>shortcodes - Tag - Pavlyk</title>
+        <title>shortcodes - Tag - My DevOps Blog</title>
         <link>/tags/shortcodes/</link>
-        <description>shortcodes - Tag - Pavlyk</description>
+        <description>shortcodes - Tag - My DevOps Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Extended Shortcodes</title>
     <link>/posts/theme-documentation-extended-shortcodes/</link>

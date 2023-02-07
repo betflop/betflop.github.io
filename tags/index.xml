@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Pavlyk</title>
+        <title>Tags - Tag - My DevOps Blog</title>
         <link>/tags/</link>
-        <description>Tags - Tag - Pavlyk</description>
+        <description>Tags - Tag - My DevOps Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
     <title>HTML</title>
     <link>/tags/html/</link>

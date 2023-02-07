@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Тэг - Pavlyk</title>
+        <title>Markdown - Тэг - My DevOps Blog</title>
         <link>/ru/tags/markdown/</link>
-        <description>Markdown - Тэг - Pavlyk</description>
+        <description>Markdown - Тэг - My DevOps Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</lastBuildDate><atom:link href="/ru/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Это первый тестовый пост на сайте!</title>
     <link>/ru/posts/my_post/</link>
