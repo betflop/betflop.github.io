@@ -11,21 +11,5 @@
     <guid>/posts/my_post/</guid>
     <description><![CDATA[First my new ! New local string  В то время как Linux еще пытается занять свое место в настольных системах, она абсолютно доминирует в мире серверов, особенно виртуальных и облачных. Поскольку самое серьезное администрирование серверов в наши дни выполняется удаленно, работа с графическим интерфейсом того или иного рода просто приводит к лишнему потреблению ресурсов. Если вы хотите управлять серверами и сетевыми архитектурами, которые в настоящее время привлекают всеоб­щее внимание, вам придется пользоваться оболочкой командной строки Linux.]]></description>
 </item>
-<item>
-    <title>Markdown 基本语法</title>
-    <link>/posts/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item>
-<item>
-    <title>Emoji 支持</title>
-    <link>/posts/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>/posts/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item>
 </channel>
 </rss>

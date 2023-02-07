@@ -2,17 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/en/posts/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-extended-shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod></url><url>
-            <loc>/en/posts/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-mermaid-shortcode/</loc><lastmod>2020-03-03T15:29:41&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-echarts-shortcode/</loc><lastmod>2020-03-03T14:29:41&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-mapbox-shortcode/</loc><lastmod>2020-03-03T13:29:41&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-music-shortcode/</loc><lastmod>2020-03-03T12:29:41&#43;08:00</lastmod></url><url>
-            <loc>/en/posts/theme-documentation-typeit-shortcode/</loc><lastmod>2020-03-03T10:29:41&#43;08:00</lastmod></url><url>
-            <loc>/en/categories/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
+            <loc>/en/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="/categories/"
@@ -21,34 +11,7 @@
                     hreflang="en"
                     href="/en/categories/"
                     /></url><url>
-            <loc>/en/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/configuration/"
-                    /></url><url>
-            <loc>/en/categories/documentation/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/categories/documentation/"
-                    /></url><url>
-            <loc>/en/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/installation/"
-                    /></url><url>
-            <loc>/en/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
+            <loc>/en/</loc><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="/"
@@ -57,16 +20,7 @@
                     hreflang="en"
                     href="/en/"
                     /></url><url>
-            <loc>/en/posts/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/posts/"
-                    /></url><url>
-            <loc>/en/tags/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
+            <loc>/en/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="/tags/"
@@ -74,58 +28,4 @@
                     rel="alternate"
                     hreflang="en"
                     href="/en/tags/"
-                    /></url><url>
-            <loc>/en/tags/content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/content/"
-                    /></url><url>
-            <loc>/en/tags/markdown/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/markdown/"
-                    /></url><url>
-            <loc>/en/tags/shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/shortcodes/"
-                    /></url><url>
-            <loc>/en/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/html/"
-                    /></url><url>
-            <loc>/en/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/categories/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/categories/markdown/"
-                    /></url><url>
-            <loc>/en/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/tags/emoji/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/tags/emoji/"
                     /></url></urlset>
