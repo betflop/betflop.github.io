@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pavlyk</title>
+        <link>/ru/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</lastBuildDate>
+            <atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Это первый тестовый пост на сайте!</title>
+    <link>/ru/posts/my_post/</link>
+    <pubDate>Thu, 19 Jan 2023 17:07:47 &#43;0300</pubDate>
+    <author>Pavel Kozlov</author>
+    <guid>/ru/posts/my_post/</guid>
+    <description><![CDATA[First my new !!! New local string  В то время как Linux еще пытается занять свое место в настольных системах, она абсолютно доминирует в мире серверов, особенно виртуальных и облачных. Поскольку самое серьезное администрирование серверов в наши дни выполняется удаленно, работа с графическим интерфейсом того или иного рода просто приводит к лишнему потреблению ресурсов. Если вы хотите управлять серверами и сетевыми архитектурами, которые в настоящее время привлекают всеоб­щее внимание, вам придется пользоваться оболочкой командной строки Linux.]]></description>
+</item>
+</channel>
+</rss>
