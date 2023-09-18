@@ -1,6 +1,20 @@
 # Welcome to MkDocs
 
-English docs [mkdocs.org](https://www.mkdocs.org).
+Docs по адресу [mkdocs.org](https://www.mkdocs.org).
+
+
+!!! note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+!!! warning
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 
 ## Commands
 
@@ -24,6 +38,29 @@ English docs [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+![Image title](Screenshot%202023-08-25%20at%2011.07.31.png)
+
+
+## New ansible script
+
+    mkdocs12345.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+
+
+
+## New ansible script
+
+    mkdocs12345.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+
+
 
 <figure markdown>
   ![Image title](Screenshot%202023-08-25%20at%2011.07.31.png){ width="300" }
