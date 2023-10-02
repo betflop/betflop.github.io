@@ -1,4 +1,4 @@
-# Terraform 
+# Yandex cloud
 
 ### Установка CLI yandex cloud
 https://cloud.yandex.ru/docs/cli/quickstart#install
