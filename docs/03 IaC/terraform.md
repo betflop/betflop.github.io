@@ -1,0 +1,65 @@
+# Terraform 
+
+### Установка CLI yandex cloud
+https://cloud.yandex.ru/docs/cli/quickstart#install
+
+``` bash
+curl -sSL https://storage.yandexcloud.net/yandexcloud-yc/install.sh | bash
+
+yc init
+
+yc config list
+```
+
+### Пример
+
+``` bash
+# Посмотрите описание команд CLI для работы с облачными сетями:
+yc vpc network --help
+
+# Создайте облачную сеть в каталоге, указанном в вашем профиле CLI:
+yc vpc network create \
+  --name my-yc-network \
+  --labels my-label=my-value \
+  --description "my first network via yc"
+
+# Создайте подсеть в облачной сети my-yc-network
+yc vpc subnet create \
+  --name my-yc-subnet-a \
+  --zone ru-central1-a \
+  --range 10.1.2.0/24 \
+  --network-name my-yc-network \
+  --description "my first subnet via yc"
+
+# Получите список всех облачных сетей в каталоге, указанном в вашем профиле CLI
+yc vpc network list
+
+yc vpc network list --format yaml
+```
+
+### Создание ВМ
+
+``` bash
+# Создайте ВМ Linux
+yc compute instance create \
+  --name my-yc-instance \
+  --network-interface subnet-name=my-yc-subnet-a,nat-ip-version=ipv4 \
+  --zone ru-central1-a \
+  --ssh-key ~/.ssh/id_ed25519.pub
+
+# Узнайте публичный IP-адрес ВМ. Для этого посмотрите подробную информацию о вашей ВМ
+yc compute instance get my-yc-instance
+
+# Подключиться
+ssh yc-user@xxx.xxx.xxx.xxx
+```
+
+### Удалить ВМ, сеть и подсеть
+
+``` bash
+yc compute instance delete my-yc-instance
+
+yc vpc subnet delete my-yc-subnet-a
+
+yc vpc network delete my-yc-network
+```
