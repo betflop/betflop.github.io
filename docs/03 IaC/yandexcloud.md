@@ -3,7 +3,7 @@
 ### Установка CLI yandex cloud
 https://cloud.yandex.ru/docs/cli/quickstart#install
 
-``` bash
+```bash
 curl -sSL https://storage.yandexcloud.net/yandexcloud-yc/install.sh | bash
 
 yc init
@@ -13,7 +13,7 @@ yc config list
 
 ### Пример
 
-``` bash
+```bash
 # Посмотрите описание команд CLI для работы с облачными сетями:
 yc vpc network --help
 
@@ -39,7 +39,7 @@ yc vpc network list --format yaml
 
 ### Создание ВМ
 
-``` bash
+```bash
 # Создайте ВМ Linux
 yc compute instance create \
   --name my-yc-instance \
@@ -56,7 +56,7 @@ ssh yc-user@xxx.xxx.xxx.xxx
 
 ### Удалить ВМ, сеть и подсеть
 
-``` bash
+```bash
 yc compute instance delete my-yc-instance
 
 yc vpc subnet delete my-yc-subnet-a
