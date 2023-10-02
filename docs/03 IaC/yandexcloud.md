@@ -1,7 +1,7 @@
 # Yandex cloud
 
 ### Установка CLI yandex cloud
-https://cloud.yandex.ru/docs/cli/quickstart#install
+[Инструкция](https://cloud.yandex.ru/docs/cli/quickstart#install)
 
 ```bash
 curl -sSL https://storage.yandexcloud.net/yandexcloud-yc/install.sh | bash
