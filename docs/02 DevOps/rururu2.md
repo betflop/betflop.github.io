@@ -16,3 +16,18 @@ def bubble_sort(items):
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ```
+
+=== ":octicons-file-code-16: `docs/stylesheets/extra.css`"
+
+    ``` css
+    :root > * {
+      --md-code-hl-string-color: #0FF1CE;
+    }
+    ```
+
+=== ":octicons-file-code-16: `mkdocs.yml`"
+
+    ``` yaml
+    extra_css:
+      - stylesheets/extra.css
+    ```
