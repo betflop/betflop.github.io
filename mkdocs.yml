@@ -21,6 +21,8 @@ theme:
   # - css/extra.css
 
 markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
   - attr_list
   - md_in_html
