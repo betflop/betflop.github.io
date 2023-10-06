@@ -15,3 +15,18 @@ terraform apply
 terraform destroy
 terraform show
 ```
+
+```terraform
+provider "name" {
+    key = value
+}
+
+resource "type" "name" {
+    key = value
+}
+
+variable "name" {
+    type = ""
+    default = ""
+}
+```
