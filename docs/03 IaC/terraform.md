@@ -6,7 +6,7 @@
 - Описание инфраструктуры хранится в конфигурационных .tf-файлах
 - State
 
-```hcl
+```terraform
 terraform -h
 
 terraform init
@@ -15,6 +15,9 @@ terraform apply
 terraform destroy
 terraform show
 ```
+
+- Провайдер это уже кем то написанная программа которая позволяет вам на языке
+Терраформа общаться с какой то системой где вы будете делат свою инфраструктуру
 
 ```terraform
 provider "name" {
