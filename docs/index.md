@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/channel/UCJpVin6HWS1q5rCtn2TmS-A">
     <img src="https://img.shields.io/youtube/channel/views/UCJpVin6HWS1q5rCtn2TmS-A?style=social" alt="Youtube Badge"/>
   </a>  -->
-  <a href="https://www.linkedin.com/in/pavel-kozlov-5ab65874/">
+  <a href="https://www.linkedin.com/in/pavel-kozlov-5ab65874/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <!--
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <a href="https://t.me/betflop">
+  <a href="https://t.me/betflop" target=”_blank”>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
