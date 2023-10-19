@@ -37,6 +37,7 @@
 :man_technologist: **About Me**
 
 I am a DevOps engineer from Saint-Petersburg
+
 ---
 ✅ Completed courses:
 
