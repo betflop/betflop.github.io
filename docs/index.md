@@ -23,13 +23,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pavlyk&style=flat-square&color=blue" alt=""/>
 <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   hey there
 </h1>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
 </div>
 
  <!---
@@ -50,11 +48,11 @@ I am a DevOps engineer from Saint-Petersburg
   * [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
   * [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
 
-
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 ---
 
