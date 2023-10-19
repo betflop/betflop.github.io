@@ -37,18 +37,18 @@
 ### :man_technologist: About Me :
 I am a DevOps engineer from Saint-Petersburg
 ---
-- ✅ Completed courses:
-  * [Yandex practicum - DevOps](https://github.com/betflop/DevOps/blob/master/img/Pavel%20Kozlov_20232DEV00156.pdf)
-  * [ITMO - DevOps engineer](https://github.com/betflop/DevOps/blob/master/img/ITMO.pdf)
-  * [Yandex practicum - Algorithm and data structure](https://github.com/betflop/betflop/blob/main/yandex_algo.pdf)
-  * [MIPT - Deep Learning School](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.pdf)
+✅ Completed courses:
+  - [Yandex practicum - DevOps](https://github.com/betflop/DevOps/blob/master/img/Pavel%20Kozlov_20232DEV00156.pdf)
+  - [ITMO - DevOps engineer](https://github.com/betflop/DevOps/blob/master/img/ITMO.pdf)
+  - [Yandex practicum - Algorithm and data structure](https://github.com/betflop/betflop/blob/main/yandex_algo.pdf)
+  - [MIPT - Deep Learning School](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.pdf)
 
 
-- 🐶 Pet projects:
-  * [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
-  * [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
+🐶 Pet projects:
+  - [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
+  - [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
+:mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/betflop) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
