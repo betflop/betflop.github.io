@@ -3,10 +3,12 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
 <div id="badges" align="center">
+
+<div id="header" align="center">
+  <img src="./11247386.jpeg" width="200"/>
+</div>
+
   <!--
   <a href="https://www.youtube.com/channel/UCJpVin6HWS1q5rCtn2TmS-A">
     <img src="https://img.shields.io/youtube/channel/views/UCJpVin6HWS1q5rCtn2TmS-A?style=social" alt="Youtube Badge"/>
@@ -29,6 +31,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 </div>
 
  <!---
