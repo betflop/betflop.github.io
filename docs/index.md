@@ -1,12 +1,7 @@
-# Welcome123 to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
 <div id="badges" align="center">
 
 <div id="header" align="center">
-  <img src="./11247386.jpeg" width="200"/>
+  <img src="./11247386.jpeg" style="border-radius: 50%;" width="200"/>
 </div>
 
   <!--

@@ -57,7 +57,7 @@ extra:
 
 plugins:
     - with-pdf:
-    - glightbox:
+    # - glightbox:
     - search:
     - i18n:
         docs_structure: suffix
