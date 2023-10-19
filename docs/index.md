@@ -30,12 +30,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   hey there
 </h1>
-
-
 </div>
 
 
-### :man_technologist: About Me
+:man_technologist: **About Me**
 I am a DevOps engineer from Saint-Petersburg
 ---
 ✅ Completed courses:
@@ -54,7 +52,7 @@ I am a DevOps engineer from Saint-Petersburg
 <!-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/betflop) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/) -->
 
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: **Languages and Tools**:
 <div>
   <a href="https://devopsovich.github.io/01%20Linux/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="100" height="100"/></a>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="100" height="100"/>&nbsp;
