@@ -45,15 +45,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-repo_url: https://github.com/squidfunk/mkdocs-material
-repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/betflop/betflop.github.io
+repo_name: betflop.github.io
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/cosckoya
-    - icon: fontawesome/brands/dev
-      link: https://dev.to/cosckoya
+      link: https://github.com/betflop
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com
 
 plugins:
     - with-pdf:
