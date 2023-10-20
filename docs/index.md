@@ -4,6 +4,10 @@
   <img src="./11247386.jpeg" style="border-radius: 50%;" width="200"/>
 </div>
 
+  <a href="https://t.me/betflop" target=”_blank”>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
   <!--
   <a href="https://www.youtube.com/channel/UCJpVin6HWS1q5rCtn2TmS-A">
     <img src="https://img.shields.io/youtube/channel/views/UCJpVin6HWS1q5rCtn2TmS-A?style=social" alt="Youtube Badge"/>
@@ -15,10 +19,6 @@
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>  -->
-  <a href="https://t.me/betflop" target=”_blank”>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=betflop&style=flat-square&color=blue" alt=""/>
