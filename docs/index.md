@@ -47,6 +47,8 @@ I am a DevOps engineer from Saint-Petersburg
   - [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
   - [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/betflop/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
+
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/betflop) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
 <!-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/betflop) [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/) -->
 
 
