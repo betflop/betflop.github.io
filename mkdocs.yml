@@ -53,7 +53,8 @@ repo_name: betflop.github.io
 
 extra:
   analytics:
-    provider: custom
+    provider: google
+    property: G-MKNTDY3EFM
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/betflop
