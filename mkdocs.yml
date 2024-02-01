@@ -7,9 +7,9 @@ theme:
       - content.code.copy
       - navigation.expand
   name: material
-  custom_dir: docs/templates
-  static_templates:
-    - 'analytics.html'
+  # custom_dir: docs/templates
+  # static_templates:
+    # - 'analytics.html'
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -20,6 +20,9 @@ theme:
       toggle:
         icon: material/brightness-7
 
+extra:
+  analytics:
+    provider: custom
 # extra_css:
   # - css/extra.css
 
