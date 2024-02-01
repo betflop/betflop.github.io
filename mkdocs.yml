@@ -7,6 +7,9 @@ theme:
       - content.code.copy
       - navigation.expand
   name: material
+  custom_dir: docs/templates
+  static_templates:
+    - 'analytics.html'
   palette: 
     # Palette toggle for light mode
     - scheme: default
