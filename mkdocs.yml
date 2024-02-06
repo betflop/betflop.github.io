@@ -1,4 +1,5 @@
 site_name: DevOps notes
+site_url: https://betflop.github.io/
 
 theme:
   features:
