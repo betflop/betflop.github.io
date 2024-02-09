@@ -7,6 +7,9 @@
   <a href="https://t.me/betflop" target=”_blank”>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://github.com/betflop" target=”_blank”>
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
 
   <!--
   <a href="https://www.youtube.com/channel/UCJpVin6HWS1q5rCtn2TmS-A">
