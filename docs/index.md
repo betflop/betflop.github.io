@@ -39,6 +39,7 @@ I am a DevOps engineer from Saint-Petersburg
 ---
 ✅ Completed courses:
 
+  - [KodeKloud - Certified Kubernetes Application Developer (CKAD)](https://github.com/betflop/DevOps/blob/master/img/CKAD.png)
   - [Yandex practicum - DevOps](https://github.com/betflop/DevOps/blob/master/img/Pavel%20Kozlov_20232DEV00156.pdf)
   - [ITMO - DevOps engineer](https://github.com/betflop/DevOps/blob/master/img/ITMO.pdf)
   - [Yandex practicum - Algorithm and data structure](https://github.com/betflop/betflop/blob/main/yandex_algo.pdf)
