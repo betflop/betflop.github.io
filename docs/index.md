@@ -42,11 +42,16 @@ I am a DevOps engineer from Saint-Petersburg
   - [KodeKloud - Certified Kubernetes Application Developer (CKAD)](https://github.com/betflop/DevOps/blob/master/img/CKAD.png)
   - [Yandex practicum - DevOps](https://github.com/betflop/DevOps/blob/master/img/Pavel%20Kozlov_20232DEV00156.pdf)
   - [ITMO - DevOps engineer](https://github.com/betflop/DevOps/blob/master/img/ITMO.pdf)
+
   - [Yandex practicum - Algorithm and data structure](https://github.com/betflop/betflop/blob/main/yandex_algo.pdf)
   - [MIPT - Deep Learning School](https://github.com/betflop/DataScience/blob/master/imgs/MIPT_C1.pdf)
 
 
 🐶 Pet projects:
+
+  - [React+Xterm - Interactive Browser Terminal playgrounds](https://github.com/betflop/Prog/tree/master/gtl)
+
+  - [Python+React - Flashcard Learning Service](https://github.com/betflop/Prog/tree/master/spef)
 
   - [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
   - [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/betflop/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
