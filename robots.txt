@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://betflop.github.io/sitemap.xml
