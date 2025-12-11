@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://betflop.github.io/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/01%20YandexCloud/1.0_YC/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.0_YC/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.0_YC/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/01%20YandexCloud/1.1_Terraform/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.1_Terraform/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.1_Terraform/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/01%20YandexCloud/1.2_Security/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.2_Security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.2_Security/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/03%20IaC/3.1_YandexCloud/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.1_YandexCloud/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.1_YandexCloud/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/03%20IaC/3.2_Terraform/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.2_Terraform/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.2_Terraform/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/03%20IaC/3.3_Terragrunt/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.3_Terragrunt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.3_Terragrunt/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/03%20IaC/3.4_Ansible/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.4_Ansible/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.4_Ansible/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/04%20DevOps%20and%20CICD/4.1_Docker/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/04%20DevOps%20and%20CICD/4.1_Docker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.1_Docker/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/04%20DevOps%20and%20CICD/4.2_CICD/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/04%20DevOps%20and%20CICD/4.2_CICD/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.2_CICD/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.1_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.1_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.1_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.2_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.2_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.2_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.3_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.3_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.3_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.4_Helm/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.4_Helm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.4_Helm/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.7_Security/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.7_Security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.7_Security/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/05%20Kubernetes/5.8_CKAD/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.8_CKAD/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.8_CKAD/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/06%20ServiceMesh/6.1_ServiceMesh/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/06%20ServiceMesh/6.1_ServiceMesh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/06%20ServiceMesh/6.1_ServiceMesh/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/06%20ServiceMesh/6.2_Istio/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/06%20ServiceMesh/6.2_Istio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/06%20ServiceMesh/6.2_Istio/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/07%20Observability/7.1_Monitoring/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.1_Monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.1_Monitoring/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/07%20Observability/7.2_Logging/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.2_Logging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.2_Logging/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/07%20Observability/7.3_Tracing/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.3_Tracing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.3_Tracing/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/10%20Security/10.1_TLS/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/10%20Security/10.1_TLS/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/10%20Security/10.1_TLS/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/11%20KubernetesHardway/11.1_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/11%20KubernetesHardway/11.1_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/11%20KubernetesHardway/11.1_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/20%20React/20.1_React/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/20%20React/20.1_React/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/20%20React/20.1_React/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/20%20React/20.2_useState/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/20%20React/20.2_useState/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/20%20React/20.2_useState/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/21%20Golang/21.1_Golang/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/21%20Golang/21.1_Golang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/21%20Golang/21.1_Golang/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/01%20YandexCloud/1.0_YC/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.0_YC/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.0_YC/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/01%20YandexCloud/1.1_Terraform/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.1_Terraform/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.1_Terraform/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/01%20YandexCloud/1.2_Security/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/01%20YandexCloud/1.2_Security/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/01%20YandexCloud/1.2_Security/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/03%20IaC/3.1_YandexCloud/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.1_YandexCloud/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.1_YandexCloud/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/03%20IaC/3.2_Terraform/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.2_Terraform/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.2_Terraform/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/03%20IaC/3.3_Terragrunt/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.3_Terragrunt/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.3_Terragrunt/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/03%20IaC/3.4_Ansible/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/03%20IaC/3.4_Ansible/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/03%20IaC/3.4_Ansible/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.1_Docker/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.1_Docker/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/04%20DevOps%20and%20CICD/4.1_Docker/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.2_CICD/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/04%20DevOps%20and%20CICD/4.2_CICD/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/04%20DevOps%20and%20CICD/4.2_CICD/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.1_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.1_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.1_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.2_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.2_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.2_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.3_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.3_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.3_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.4_Helm/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.4_Helm/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.4_Helm/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.7_Security/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.7_Security/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.7_Security/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/05%20Kubernetes/5.8_CKAD/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/05%20Kubernetes/5.8_CKAD/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/05%20Kubernetes/5.8_CKAD/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/06%20ServiceMesh/6.1_ServiceMesh/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/06%20ServiceMesh/6.1_ServiceMesh/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/06%20ServiceMesh/6.1_ServiceMesh/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/06%20ServiceMesh/6.2_Istio/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/06%20ServiceMesh/6.2_Istio/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/06%20ServiceMesh/6.2_Istio/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/07%20Observability/7.1_Monitoring/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.1_Monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.1_Monitoring/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/07%20Observability/7.2_Logging/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.2_Logging/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.2_Logging/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/07%20Observability/7.3_Tracing/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/07%20Observability/7.3_Tracing/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/07%20Observability/7.3_Tracing/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/10%20Security/10.1_TLS/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/10%20Security/10.1_TLS/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/10%20Security/10.1_TLS/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/11%20KubernetesHardway/11.1_Kubernetes/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/11%20KubernetesHardway/11.1_Kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/11%20KubernetesHardway/11.1_Kubernetes/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/20%20React/20.1_React/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/20%20React/20.1_React/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/20%20React/20.1_React/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/20%20React/20.2_useState/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/20%20React/20.2_useState/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/20%20React/20.2_useState/"/>
+    </url>
+    <url>
+        <loc>https://betflop.github.io/en/21%20Golang/21.1_Golang/</loc>
+        <lastmod>2025-12-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://betflop.github.io/en/21%20Golang/21.1_Golang/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://betflop.github.io/21%20Golang/21.1_Golang/"/>
+    </url>
+</urlset>
